@@ -1,0 +1,145 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{einstein}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3ebf53e52a3ce84f0ffb8553200a6a63}{%
+           family={Einstein},
+           familyi={E\bibinitperiod},
+           given={Albert},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{fullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{fullhashraw}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{bibnamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authorbibnamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authornamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authorfullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authorfullhashraw}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annalen der Physik}
+      \field{number}{10}
+      \field{title}{{Zur Elektrodynamik bewegter Körper}. ({German}) [{On} the electrodynamics of moving bodies]}
+      \field{volume}{322}
+      \field{year}{1905}
+      \field{pages}{891\bibrangedash 921}
+      \range{pages}{31}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1002/andp.19053221004
+      \endverb
+      \keyw{physics}
+    \endentry
+    \entry{Kent2002}{article}{}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=c30d0f129cfe2adb6f6ee1476d64467b}{%
+           family={Kent},
+           familyi={K\bibinitperiod},
+           given={W.\bibnamedelimi James},
+           giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=361bb0a5e530314c1c8116e847b30c7e}{%
+           family={Sugnet},
+           familyi={S\bibinitperiod},
+           given={Charles\bibnamedelima W.},
+           giveni={C\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=64aac5f3ba42e6b6c799facc0db555ac}{%
+           family={Furey},
+           familyi={F\bibinitperiod},
+           given={Terrence\bibnamedelima S.},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=75393451b5e5e00f522803a9a285ae6a}{%
+           family={Roskin},
+           familyi={R\bibinitperiod},
+           given={Krishna\bibnamedelima M.},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=892a62edebb1c187603856aa0d65c061}{%
+           family={Pringle},
+           familyi={P\bibinitperiod},
+           given={Tom\bibnamedelima H.},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38597769d72045d427d39cabe02f0e54}{%
+           family={Zahler},
+           familyi={Z\bibinitperiod},
+           given={Alan\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cdcf8f974f0325eef95b46c19d34d8e4}{%
+           family={Haussler},
+           familyi={H\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=464e07afc9e46359fb480839150595c5}{%
+           family={David},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Genome Res}%
+      }
+      \strng{namehash}{79f838e57d16395bbd9723b63645796b}
+      \strng{fullhash}{9c6f63a3bb2e7e2080ff33f58a029188}
+      \strng{fullhashraw}{9c6f63a3bb2e7e2080ff33f58a029188}
+      \strng{bibnamehash}{79f838e57d16395bbd9723b63645796b}
+      \strng{authorbibnamehash}{79f838e57d16395bbd9723b63645796b}
+      \strng{authornamehash}{79f838e57d16395bbd9723b63645796b}
+      \strng{authorfullhash}{9c6f63a3bb2e7e2080ff33f58a029188}
+      \strng{authorfullhashraw}{9c6f63a3bb2e7e2080ff33f58a029188}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1088-9051}
+      \field{journaltitle}{Genome Research}
+      \field{month}{6}
+      \field{number}{6}
+      \field{title}{{The Human Genome Browser at UCSC}}
+      \field{volume}{12}
+      \field{year}{2002}
+      \field{pages}{996\bibrangedash 1006}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1101/gr.229102
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/Evonne/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Kent et al. - 2002 - The human genome browser at UCSC.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://pubmed.ncbi.nlm.nih.gov/12045153/
+      \endverb
+      \verb{url}
+      \verb https://pubmed.ncbi.nlm.nih.gov/12045153/
+      \endverb
+      \keyw{California,Charles W Sugnet,Database Management Systems*,Databases,David Haussler,Gene Expression,Genes,Genetic,Genome,Human*,Humans,MEDLINE,Messenger,NCBI,NIH,NLM,National Center for Biotechnology Information,National Institutes of Health,National Library of Medicine,Non-P.H.S.,Non-U.S. Gov't,Nucleic Acid,P.H.S.,PMC186604,PubMed Abstract,RNA,Research Support,Sequence Homology,Software,U.S. Gov't,Universities / trends,W James Kent,doi:10.1101/gr.229102,pmid:12045153}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
