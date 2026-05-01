@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.28)  1 MAY 2026 13:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.28)  1 MAY 2026 13:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -760,14 +760,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ] (./3results.tex (./4maintextFigs.tex)
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 12.
+(Font)              <10.95> on input line 14.
  [3
 
 ]
 <./main_figs/figureSuggestions.pdf, id=101, 677.38066pt x 370.77522pt>
 File: ./main_figs/figureSuggestions.pdf Graphic file (type pdf)
 <use ./main_figs/figureSuggestions.pdf>
-Package pdftex.def Info: ./main_figs/figureSuggestions.pdf  used on input line 24.
+Package pdftex.def Info: ./main_figs/figureSuggestions.pdf  used on input line 26.
 (pdftex.def)             Requested size: 452.9679pt x 247.93721pt.
 ) [4 <./main_figs/figureSuggestions.pdf>] (./5discussion.tex) [5
 
@@ -777,30 +777,30 @@ Package pdftex.def Info: ./main_figs/figureSuggestions.pdf  used on input line 2
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1 \subsection*{Supplemental Figures}
+l.3 \subsection*{Supplemental Figures}
                                        [1
 
 ]
 <./supplement/suppl_figs/tony.JPG, id=176, 474.77374pt x 642.4pt>
 File: ./supplement/suppl_figs/tony.JPG Graphic file (type jpg)
 <use ./supplement/suppl_figs/tony.JPG>
-Package pdftex.def Info: ./supplement/suppl_figs/tony.JPG  used on input line 12.
+Package pdftex.def Info: ./supplement/suppl_figs/tony.JPG  used on input line 14.
 (pdftex.def)             Requested size: 135.89174pt x 183.87007pt.
 <./supplement/suppl_figs/cutegoat.JPG, id=177, 147.4308pt x 98.769pt>
 File: ./supplement/suppl_figs/cutegoat.JPG Graphic file (type jpg)
 <use ./supplement/suppl_figs/cutegoat.JPG>
-Package pdftex.def Info: ./supplement/suppl_figs/cutegoat.JPG  used on input line 20.
+Package pdftex.def Info: ./supplement/suppl_figs/cutegoat.JPG  used on input line 22.
 (pdftex.def)             Requested size: 271.7835pt x 182.10635pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.22 \clearpage
+l.24 \clearpage
                 [2 <./supplement/suppl_figs/tony.JPG> <./supplement/suppl_figs/cutegoat.JPG>]) (./supplement/2suppl_tabs.tex (./supplement/suppl_tabs/sampleTable.tex)
 pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.19 \clearpage
+l.21 \clearpage
                 [3
 
 ]) (./0main.aux)
